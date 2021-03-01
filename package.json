@@ -7,7 +7,7 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "three-bas": "^2.10.1",
     "threestuff": "file:./js/threestuff"
   },
